@@ -1,5 +1,15 @@
-# Virtual environment
+# Environments
+.env
 venv/
+env/
 .venv/
+sawit-ai/
+
+# Python cache
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Temporary files
+temp_*
+*.log
